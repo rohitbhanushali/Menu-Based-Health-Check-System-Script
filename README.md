@@ -28,12 +28,12 @@ sudo yum install mailx      # CentOS/RHEL
 1. Clone this repository:
 ```sh
 git clone https://github.com/your-username/system-health-check.git
-cd system-health-check
+cd Menu-Based-Health-Check-System
 ```
 
 2. Make the script executable:
 ```sh
-chmod +x system_health.sh
+chmod +x menu.sh
 ```
 
 3. Set up your email for receiving reports (modify `EMAIL` in the script):
@@ -86,6 +86,6 @@ Feel free to fork this repository, enhance the script, and submit pull requests!
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name]
+DevOps Institute Mumbai
 
 
