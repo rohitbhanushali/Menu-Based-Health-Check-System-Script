@@ -27,7 +27,7 @@ sudo yum install mailx      # CentOS/RHEL
 ## Installation
 1. Clone this repository:
 ```sh
-git clone https://github.com/your-username/system-health-check.git
+git clone https://github.com/DevOpsInstituteMumbai-wq/Menu-Based-Health-Check-System.git
 cd Menu-Based-Health-Check-System
 ```
 
