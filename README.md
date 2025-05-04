@@ -72,6 +72,9 @@ Add the following line at the end:
 ```
 Save and exit.
 
+![image](https://github.com/user-attachments/assets/9eb9415f-bd15-47cd-8296-9f29845731f9)
+
+
 ## Logging
 - Logs are stored in `/var/log/sys_health.log`
 - You can check logs using:
@@ -84,8 +87,5 @@ Feel free to fork this repository, enhance the script, and submit pull requests!
 
 ## License
 This project is licensed under the MIT License.
-
-## Author
-DevOps Institute Mumbai
 
 
